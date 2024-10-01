@@ -1,6 +1,6 @@
 export function Home() {
     return (
-        <main className="px-4 py-8 flex flex-col gap-6">
+        <main className="py-8 flex flex-col gap-6">
             <p className="text-3xl font-semibold p-3 text-white">
                 Daniel é <span className="text-purple">Web Designer</span> e <span className="text-purple">Desenvolvedor Front-end</span>
             </p>
