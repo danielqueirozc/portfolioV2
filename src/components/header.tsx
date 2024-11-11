@@ -4,7 +4,7 @@ export function Header() {
     return (
         <header className="pt-4 pb-2 flex justify-between items-center">
             <div className="flex items-center justify-center gap-2 text-white font-bold">
-                <img src="../src/assets/Logo.svg" alt="" />
+                <img src="/Logo.svg" alt="" />
                 <span>Daniel</span>
             </div>
             <Sheet>
